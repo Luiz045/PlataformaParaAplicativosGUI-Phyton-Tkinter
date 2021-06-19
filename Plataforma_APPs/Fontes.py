@@ -1,0 +1,7 @@
+fonte_bemvindo = ('Arial Narrow', '12')
+fonte_titulo = ('Bauhaus 93', '25')
+fonte_linhas = ('Harlow Solid Italic', '18', 'bold')
+fonte_botoes = ('arial black', '10')
+fonte_sair = ('arial black', '9')
+fonte_mensagem_v = ('Arial Narrow', '25', 'bold')
+fonte_title_v = ('Harlow Solid Italic', '30', 'bold')
